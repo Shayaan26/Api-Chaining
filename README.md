@@ -1,4 +1,4 @@
-# User Data Modification Dashboard
+# API Chaining
 
 This project is a React-based dashboard application that allows users to view, edit, and update user data through a series of API calls. It demonstrates complex API interactions, including both GET and POST requests, and showcases the ability to chain multiple API calls together.
 
